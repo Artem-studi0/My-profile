@@ -70,7 +70,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <!-- BLOG-POST-LIST:START -->
-
-
+- [JavaScript](https://dev.to/artemstudi0/javascript-44od)
 <!-- BLOG-POST-LIST:END -->
 
